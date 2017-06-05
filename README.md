@@ -2,4 +2,4 @@
 Learning Git
 
 This is making enough sense so far
-HAHAHA -Oh
+HAHAHA -Oh, hello
