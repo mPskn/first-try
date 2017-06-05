@@ -1,0 +1,2 @@
+# first-try
+Learning Git
